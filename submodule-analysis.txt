@@ -1,0 +1,7 @@
+Commit: 0ee4f88f94481495f2d15d1c0e064d311bb4e7d8
+Branch: main
+0ee4f88 Add GitHub Sponsors button for vasic-digital
+acb316f security: Add mandatory NO SUDO/ROOT execution constraint
+f4e80c5 docs: add ARCHITECTURE.md, .env gitignore for v2.1.0
+e107f87 feat: initial release — action replay buffer with SQLite persistence
+
