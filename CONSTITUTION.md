@@ -4,3 +4,5 @@
 >
 > This submodule adopts the Constitution v2.3.0 in full.
 > All clauses §1-§21 are binding. No local weakening permitted.
+
+Dependency manifest: `helix-deps.yaml` (§11.4.31) declares this submodule's own-org dependencies (none; leaf module).

@@ -113,3 +113,5 @@ Sequences are stored in a SQLite database with WAL journaling and a 5-second bus
 ## License
 
 Apache-2.0
+
+Dependency manifest: `helix-deps.yaml` (§11.4.31) declares this submodule's own-org dependencies (none; leaf module).
